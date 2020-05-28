@@ -1,0 +1,24 @@
+h1{
+   text-decoration-style: dashed;
+   text-indent: inherit;
+   text-shadow: blue;
+}
+p{
+  text-align: inherit;
+  color: light red;
+}
+div{
+  color: blue;
+  font-family: sans-serif;
+  font-weight: lighter;
+  font-style: oblique;
+  background-color:
+  darkgreen;
+}
+span{
+  color: black;
+  font-family: monospace;
+  font-weight: lighter;
+  font-style:normal;
+  color:pink;
+}
